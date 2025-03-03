@@ -22,4 +22,3 @@ product = multiply(2,3)
 division = divide(2,3)
 
 print(sum,difference,product,division)
-
