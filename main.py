@@ -1,4 +1,4 @@
-# second impelmentation as a module
+# third implementation as a package
 from functions.functions import add, subtract, multiply, divide
 from functions.numbers import num1,num2
 
